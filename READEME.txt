@@ -2,7 +2,7 @@ Java LISP Interpreter
 Pierce Mayadag
 4/30/2019
 
-This project was built using JavaSE-1.8, so earlier versions of java may be incompatable.
+This project was built using JRE 1.8, so earlier versions of java may be incompatable.
 
 The executable file, LispInterpreter.jar, is included in the same tarball as this file, along with the java source-code for the interpreter.
 
