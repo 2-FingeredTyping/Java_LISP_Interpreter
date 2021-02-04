@@ -2,9 +2,9 @@ Java LISP Interpreter
 Pierce Mayadag
 4/30/2019
 
-This project was built using JRE 1.8, so earlier versions of java may be incompatable.
-
-The executable file, LispInterpreter.jar, is included in the same tarball as this file, along with the java source-code for the interpreter.
+This was originally an individual project for my Principles of Programming Language class at New Mexico Tech.
+For more information on how the Interpreter works, please view "report.pdf", the commenting through out the source code is unfortunately rather sparse and inconsistant
+Below are some basic instructions to the run the interpreter for your self.
 
 To run the LISP Interpreter, on a computer with Java installed, execute the following command on a terminal from within a directory containing LispInterpreter.jar:
 
